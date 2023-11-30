@@ -1,0 +1,40 @@
+1. **Advanced Python:**
+   - Dive deeper into Python, exploring advanced features, libraries, and frameworks.
+   - Consider learning about decorators, generators, and metaclasses to enhance your Python skills.
+
+2. **Scala:**
+   - Given your experience with Spark, Scala can be beneficial for building scalable and efficient data processing applications.
+   - Learn Scala to leverage its concise syntax and functional programming features.
+
+3. **JavaScript (Node.js):**
+   - Strengthen your JavaScript skills, especially if you plan to enhance your front-end development.
+   - Explore Node.js for server-side JavaScript and asynchronous programming.
+
+4. **TypeScript:**
+   - Extend your JavaScript knowledge by learning TypeScript.
+   - TypeScript adds static typing to JavaScript, providing better tooling and catching potential errors early in the development process.
+
+5. **SQL:**
+   - Continue to deepen your SQL skills, considering advanced topics like window functions, common table expressions (CTEs), and optimization techniques.
+
+6. **Solidity:**
+   - If you're interested in blockchain development, Solidity is essential for building smart contracts on the Ethereum platform.
+   - Learn Solidity to expand your capabilities in decentralized application (DApp) development.
+
+7. **Bash Scripting:**
+   - Strengthen your Bash scripting skills, especially for automation and managing workflows in a Unix/Linux environment.
+   - Explore advanced topics like scripting for system administration tasks.
+
+8. **React:**
+   - Given your front-end skills, learn React for building modern and interactive user interfaces.
+   - Understand concepts like JSX, components, and state management in React.
+
+9. **Angular:**
+   - Explore Angular as an alternative or complement to React for front-end development.
+   - Learn about Angular components, services, and dependency injection.
+
+10. **R:**
+    - If you're interested in statistical analysis and data visualization, consider learning R.
+    - R is widely used in data science for its statistical packages and visualization capabilities.
+
+Remember to adapt this roadmap based on your specific interests and career goals. Learning multiple languages provides versatility and opens up opportunities in different domains of software development and data science.

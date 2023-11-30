@@ -1,0 +1,20 @@
+1. **Backend:**
+   - **Language:** Python
+   - **Framework Options:**
+      - Flask: A lightweight web framework.
+      - Django: A more comprehensive web framework with built-in features.
+
+2. **Database:**
+   - **SQL Database:**
+      - SQLite (for simplicity) or PostgreSQL (for a more robust solution).
+      - SQL queries will be written in the SQL language.
+
+   - **NoSQL Database:**
+      - MongoDB is commonly used for its flexibility with JSON-like documents.
+      - NoSQL queries are specific to the database type (e.g., MongoDB queries for MongoDB).
+
+3. **Frontend (Optional):**
+   - **Languages:**
+      - HTML, CSS, JavaScript
+   - **Frameworks:**
+      - React, Vue.js, or even simple HTML/CSS/JavaScript without a framework.
